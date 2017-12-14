@@ -1,0 +1,14 @@
+{
+  "name": "radiobot-events",
+  "version": "1.0.0",
+  "description": "A very light event service for mopidy",
+  "main": "src/run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tudor-Dan Ravoiu",
+  "license": "ISC",
+  "dependencies": {
+    "mopidy": "^0.5.0"
+  }
+}
